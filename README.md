@@ -25,34 +25,4 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-555?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docusaurus](https://img.shields.io/badge/Docusaurus-555?style=for-the-badge) ![Markdown](https://img.shields.io/badge/Markdown-555?style=for-the-badge) ![Git & Github](https://img.shields.io/badge/Git%20%26%20Github-555?style=for-the-badge) ![Docs as Code](https://img.shields.io/badge/Docs%20as%20Code-555?style=for-the-badge)
-
-</div>
-## 📊 GitHub Analytics
-<div align="center">
-
-![matteux-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteux-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteux-star&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=matteux-star&theme=tokyonight&hide_border=true)
-
-</div>
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matteux-star&theme=tokyo-night&hide_border=true&area=true)](https://github.com/matteux-star)
-
-</div>
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=matteux-star&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
-</div>
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
-
-<div align="center">
-
-[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
-
 </div>
