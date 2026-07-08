@@ -9,11 +9,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=matteux-star&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-## ⚡ About Me
+# ⚡ About Me
 - I am a UK-based Technical Product Manager who started in bid writing before deciding it was way more fun to build products than just write about them.
 - Today, I design and build AI-powered agentic workflows, open-source utilities, and micro-SaaS applications that solve real business problems.
 - I love hanging out at the intersection of engineering, business, and user experience to help teams turn complicated ideas into structured solutions.
-## 🚀 What I'm Up To
+# 🚀 What I'm Up To
 
 - Currently building Open Tender Agents for autonomous bidding
 - Ask me about Python, Docker, and Docs as Code
