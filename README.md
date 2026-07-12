@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Matthew%20Timms&fontSize=42&fontColor=ffffff&desc=Technical%20Product%20Manager&descSize=18&descAlign=50&descAlignY=58)
-<div align="center">
+<img width="1774" height="648" alt="profileheader" src="https://github.com/user-attachments/assets/603a4948-37e6-44b0-a664-6433dbfb6f05" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Building%20autonomous%20AI%20agents;Bridging%20engineering%20and%20business;Self-hosting%20in%20my%20homelab;Writing%20clean%20code%20and%20docs)](https://git.io/typing-svg)
 
